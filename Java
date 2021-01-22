@@ -47,3 +47,33 @@ Sample Input:
 Sample Output:
 3000.00
 
+
+##Circle Intersection
+
+Write a program to determines if two circles intersect each other.
+Input format:
+
+Input consists of 6 integers
+
+The first input containing an integer which denotes the x-coordinate of the center of the first circle.
+The second input containing an integer which denotes the y-coordinate of the center of the first circle. 
+The third input containing an integer which denotes the radius of the first circle. 
+The next 3 integers denote the x,y, and radius of the second circle.
+
+Output format:
+
+The output consists of a single line which contains any of these 3 strings.
+
+“Tangential”, “Overlap”, “Do not overlap”
+
+Sample Input:
+1
+10
+3
+10
+6
+1
+
+Sample Output:
+Tangential
+
