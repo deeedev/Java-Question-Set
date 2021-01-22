@@ -1,4 +1,4 @@
-#Budget
+##Budget
 
 It’s your job to calculate the cost of replacing damaged battle droids and to check whether it is within the budget limit of Rs. 15000. The cost of the equipment and parts is given below. Blast Rifle Rs. 350.34 Visual Sensors Rs. 230.90 Auditory Sensors Rs. 190.55 Arms Rs. 125.30 Legs Rs. 180.90 Write a program to solve this problem.
 Input format:
@@ -24,3 +24,26 @@ Sample Input:
 
 Sample Output:
 Yes
+
+
+##Hotel Tariff Calculator
+Write a program to calculate the hotel tariff. The room rent is 20% high during peak seasons [April-June, November-December].  Note: Use the switch construct.
+
+Input format:
+The first input containing an integer which denotes the number of the month
+The second input containing the floating point number which denotes the room rent per day
+The third input containing an integer which denotes the number of days stayed in the hotel
+
+Output format:
+Print the hotel tariff to be paid in floating point with 2 decimal places
+
+Refer the sample output for formatting
+
+Sample Input:
+3
+1500
+2
+
+Sample Output:
+3000.00
+
